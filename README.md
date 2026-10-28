@@ -18,4 +18,4 @@ Full-stack JavaScript developer from India. I build web apps that combine **AI**
 `JavaScript` `Node.js` `Express` `REST APIs` `PayPal APIs` `Google Gemini` `Docker` `Render` `Git`
 
 ### Work with me
-I'm open to freelance projects, especially AI and payments integrations. Open an issue on any of my repos or reach me through my freelance profile.
+I'm open to freelance projects, especially AI and payments integrations. Open an issue on any of my repos or hire me on [Upwork](https://www.upwork.com/freelancers/~0177335e914358780a).
